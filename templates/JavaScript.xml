@@ -1,0 +1,43 @@
+<templateSet group="JavaScript">
+  <template name="cd" value="// eslint-disable-next-line no-console&#10;console.debug(`$END$`);" description="console.debug call" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="// eslint-disable-next-line no-console&#10;console.log(`$END$`);" description="Console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pg" value="public get $NAME$() {&#10;    return $END$;&#10;}" description="Public getter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="prm" value="private $NAME$ = ($PARAMS$) =&gt; {&#10;    return $END$;&#10;}" description="Private method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pm" value="public $NAME$ = ($PARAMS$) =&gt; {&#10;    return $END$;&#10;}" description="public method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="dcl" value=".do((action) =&gt; { &#10;    // tslint:disable-next-line&#10;    console.log(`$END$`, action);&#10;})" description="Console log RxJS" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="assert" value="// eslint-disable-next-line no-console&#10;console.assert($END$);" description="console.assert()" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

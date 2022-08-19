@@ -1,0 +1,97 @@
+<keymap version="1" name="Gio" parent="Mac OS X">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta alt w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DumpLookupElementWeights" />
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+    <keyboard-shortcut first-keystroke="shift meta #100201e" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PreviousWindow" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+</keymap>

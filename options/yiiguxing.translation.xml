@@ -1,0 +1,36 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="100" />
+    <histories>
+      <item value="New messages" />
+      <item value="Flags" />
+      <item value="Symbols" />
+      <item value="Objects" />
+      <item value="Travel &amp; Places" />
+      <item value="Activity &amp; Sports" />
+      <item value="Food &amp; Drinks" />
+      <item value="Animals &amp; Nature" />
+      <item value="Smileys &amp; People" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="14" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="RUSSIAN" value="12" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="ARMENIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>

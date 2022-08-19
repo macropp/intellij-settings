@@ -1,0 +1,162 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-09-05T10:40:00</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2021-06-04T11:01:14</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="ececfd" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="e3ecff" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BRACES">
+      <value />
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="66548a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="434580" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="595ab6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="434580" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="468a51" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="66548a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="66548a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="b6355f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ECMAL4.AL4.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="3a4683" />
+      </value>
+    </option>
+    <option name="ECMAL4.ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="468a51" />
+      </value>
+    </option>
+    <option name="ECMAL4.DOC_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ECMAL4.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4d7a53" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ECMAL4.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="283b7a" />
+      </value>
+    </option>
+    <option name="ECMAL4.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="595ab6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ECMAL4.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="b65000" />
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="ECMAL4.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="434580" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ECMAL4.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="66548a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ECMAL4.STRING">
+      <value>
+        <option name="FOREGROUND" value="b6355f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4d7a53" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="283b7a" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="3a4683" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="aac7ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

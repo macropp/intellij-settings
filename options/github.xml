@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="6267382c-6ec4-489b-9d81-2ffbdd597b95" name="macropp">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

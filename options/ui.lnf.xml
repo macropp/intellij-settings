@@ -1,0 +1,16 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="28" />
+    <option name="MAX_LOOKUP_WIDTH2" value="728" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

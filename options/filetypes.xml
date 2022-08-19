@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="jsonschema" type="JSON" />
+      <mapping ext="qs" type="JavaScript" />
+      <mapping ext="tps" type="Native" />
+      <mapping ext="fla" type="Native" />
+      <mapping ext="psd" type="Native" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="config-overrides" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="babel" type="PLAIN_TEXT" />
+      <mapping pattern="IScene" type="TypeScript" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="j2" approved="true" type="JSON" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
+      <removed_mapping pattern="Jenkinsfile_crashgame" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

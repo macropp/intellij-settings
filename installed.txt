@@ -1,0 +1,18 @@
+GrepConsole
+ImportCost
+Key Promoter X
+cn.yiiguxing.plugin.translate
+com.andrey4623.rainbowcsv
+com.atlassian.bitbucket.references
+com.github.iguissouma.nxconsole
+com.github.shiraji.yaemoji
+com.intellij.lang.jsgraphql
+com.intellij.properties
+com.jetbrains.plugins.ini4idea
+dev.blachut.svelte.lang
+idea.plugin.protoeditor
+izhangzhihao.rainbow.brackets
+manjaro.mpb
+nb-mind-map-idea
+org.intellij.plugins.postcss
+org.sonarlint.idea
